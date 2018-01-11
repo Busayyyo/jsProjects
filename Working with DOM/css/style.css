@@ -1,0 +1,9 @@
+
+.list-group-item {
+  display: list-item;
+}
+
+.cross {
+  text-decoration: line-through;
+  background-color: #99E2BC;
+}
